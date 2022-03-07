@@ -1,0 +1,1 @@
+Database.update([ SELECT Id FROM Certification_Held__c ], false);
